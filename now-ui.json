@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-524540-card-list": {
+			"innerComponents": ["now-template-card"],
+			"uiBuilder" : {
+				"associatedTypes": ["global.core"],
+				"label": "Card List",
+				"icon": "chart-forecast-fill",
+				"description": "Card List component"
+			  }
+	    }
+	},
+	"scopeName": "x_524540_test_ca_2"
+}
